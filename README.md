@@ -1,5 +1,7 @@
 # Etch-A-Sketch Project
 
+Live Demo - https://johnbadri.github.io/top-etch-a-sketch/
+
 ## Introduction
 This project is a web-based Etch-A-Sketch game that allows you to create pixel art with a mouseover effect. You can change the size of your "pixels" and choose different colors to draw with.
 
